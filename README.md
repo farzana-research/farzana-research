@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Farzana
+# 👋 Hello, I'm **Farzana**
 
 🎓 **Aspiring AI/ML Researcher | Computer Science Enthusiast**  
 Focused on advancing knowledge and building practical solutions in **Machine Learning**, **Deep Learning**, **Artificial Intelligence**, and core **Computer Science** concepts.
