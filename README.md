@@ -65,7 +65,7 @@ I aim to:
 ## 📫 Connect with Me
 
 - 📧 Email: [farzana.akter.academic.cs@gmail.com]
-- 🌐 [LinkedIn](#https://www.linkedin.com/in/farzanaakter4558/) *(optional, recommended)*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/farzanaakter4558/) 
 
 
 ---
