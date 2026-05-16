@@ -147,20 +147,19 @@ Image Processing • Feature Extraction • Medical Image Analysis
 
 <p align="center">
 
-<a href="https://github.com/https://github.com/farzana-research">
+<a href="https://github.com/farzana-research" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/">
+<a href="https://www.linkedin.com/in/farzanaakter4558/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:akter.farzana.cse@gmail.com">
+<a href="mailto:akter.farzana.cse@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
-
 ---
 
 <p align="center">
