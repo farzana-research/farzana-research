@@ -1,73 +1,176 @@
-# 👋 Hello, I'm **Farzana**
+<!-- ===================== HEADER ===================== -->
 
-🎓 **Aspiring AI/ML Researcher | Computer Science Enthusiast**  
-Focused on advancing knowledge and building practical solutions in **Machine Learning**, **Deep Learning**, **Artificial Intelligence**, and core **Computer Science** concepts.
 
----
+<h1 align="center">👋 Hi, I'm Farzana Akter</h1>
 
-## 🧭 About Me
+<h3 align="center">
+Research Assistant @ HIRL • MSc Graduate in Computer Science
+<br>
+Artificial Intelligence • Machine Learning • Distributed Systems • Cybersecurity
+</h3>
 
-I am dedicated to exploring the theoretical foundations and practical applications of AI and Computer Science. My goal is to pursue advanced academic study, contribute to meaningful research, and apply technology to solve real-world challenges.
+<p align="center">
+  <img src="https://img.shields.io/badge/Research-AI%20%26%20Systems-0f2027?style=for-the-badge&labelColor=2c5364" />
+  <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-1a2980?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Field-Computer%20Science-26d0ce?style=for-the-badge" />
+</p>
 
-- 📍 Based in [Dhaka / Bangladesh]
-- 🔬 Interested in: Machine Learning, Deep Learning, AI for Social Good, Data Science
-- 🎯 Academic goal: Master's or PhD in AI/ML
-- 🏆 Actively preparing for scholarship opportunities
-
----
-
-## 📌 What You'll Find in This Repository
-
-This GitHub profile serves as my **open academic portfolio** and learning journal. I use it to:
-
-- 🗂️ Document structured learning notes
-- 💻 Develop and share reproducible AI/ML projects
-- 📑 Summarize research papers and key insights
-- 📈 Showcase data analysis and modeling work
-- 🧭 Track progress toward academic goals
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=26D0CE&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Researcher;Machine+Learning+Enthusiast;Distributed+Systems+Learner;Cybersecurity+%26+Medical+AI+Research" />
+</p>
 
 ---
 
-## 🚀 Current Learning and Research Goals
+## 🎓 About Me
 
-- Build a strong foundation in Machine Learning theory and algorithms
-- Deepen understanding of Deep Learning (CNNs, RNNs, Transformers)
-- Complete advanced online courses and specializations
-- Conduct self-driven research projects with clear documentation
-- Prepare competitive scholarship applications
-- Contribute to open-source projects and academic collaborations
+<p align="center">
+Passionate about building intelligent, scalable, and secure computing systems through research-driven development and continuous learning.
+</p>
 
----
+<br>
 
-## 📂 Featured Repositories
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
-⭐ [ml-learning-log](#) — Weekly progress updates and structured notes  
-⭐ [ai-mini-projects](#) — Prototyped AI/ML applications  
-⭐ [deep-learning-notes](#) — Concept breakdowns, model experiments  
-⭐ [computer-science-core](#) — Algorithms, Data Structures, Systems  
-⭐ [research-reading-journal](#) — Summaries of academic papers with personal insights
+- 🎓 Completed **Master of Science (MSc)** in Computer Science  
+- 🔬 Currently working as a **Research Assistant**  
+- 🧠 Interested in AI, ML, Distributed Systems & Cybersecurity  
+- 📚 Focused on research-oriented learning and technical development  
 
-*(Links will be updated as repositories are developed)*
+</td>
 
----
+<td width="50%" align="left">
 
-## 🎯 Long-Term Vision
+- 🏛️ Research Lab: **HIRL**  
+- 🏫 Daffodil International University  
+- 🌐 https://hirl.daffodilvarsity.edu.bd/  
+- 🌍 Based in Bangladesh  
 
-I aim to:
-
-✅ Pursue advanced study in AI and Machine Learning  
-✅ Contribute to impactful, socially beneficial research  
-✅ Teach and mentor the next generation of developers and researchers  
-✅ Build ethical and transparent AI systems  
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect with Me
+## 🔬 Research Interests
 
-- 📧 Email: [farzana.akter.academic.cs@gmail.com]
-- 🌐 [LinkedIn](https://www.linkedin.com/in/farzanaakter4558/) 
+## 🔬 Research Interests
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0f2027?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-1a2980?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-26d0ce?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Medical%20Imaging-0f2027?style=for-the-badge&logo=googlefit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-1a2980?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-26d0ce?style=for-the-badge&logo=icloud&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cryptography-0f2027?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-1a2980?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data--Driven%20Systems-26d0ce?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
 
 ---
 
+## 🛠️ Technical Skills
 
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</p>
+
+<p align="center">
+NumPy • Pandas • Scikit-learn • CNN • UNET • Deep Learning
+</p>
+
+---
+
+### 👁️ Computer Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+
+<p align="center">
+Image Processing • Feature Extraction • Medical Image Analysis
+</p>
+
+---
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+---
+
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,vscode,docker" />
+</p>
+
+---
+
+## 📚 Research-Oriented Training & Technical Development
+
+### 🧠 Python for Data Science (PythonX Bootcamp)
+
+- Python programming fundamentals (OOP, file handling, modular design)  
+- NumPy • Pandas • Matplotlib  
+- Linear Regression • Decision Trees  
+- Data preprocessing & exploratory data analysis (EDA)  
+
+---
+
+### 🧬 Computer Vision & Deep Learning for Medical Imaging (PythonX Bootcamp)
+
+- Image processing (filtering, edge detection, morphology)  
+- Feature extraction using GLCM  
+- CNN for classification tasks  
+- UNET for segmentation  
+- Introductory Vision Transformers & Generative AI  
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_PROFILE">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your.email@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>
+    "Research is not just about writing code — it's about discovering understanding."
+  </i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
